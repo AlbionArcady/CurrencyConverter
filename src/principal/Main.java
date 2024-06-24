@@ -21,7 +21,7 @@ public class Main {
             System.out.println("♥ 2. MXN to USD.                           ♥");
             System.out.println("♥ 3. USD to COP.                           ♥");
             System.out.println("♥ 4. COP to USD.                           ♥");
-            System.out.println("♥ 5. USD to Real BRL.                      ♥");
+            System.out.println("♥ 5. USD to BRL.                           ♥");
             System.out.println("♥ 6. BRL to USD                            ♥");
             System.out.println("♥ 7. USD to ARS.                           ♥");
             System.out.println("♥ 8. ARS to USD                            ♥");
