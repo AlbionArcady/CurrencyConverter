@@ -8,7 +8,7 @@ import java.net.http.HttpResponse;
 import com.google.gson.Gson;
 import model.Currency;
 public class ConsultCurrency {
-    String apiKey = "3bc65992a6a7767d2a1cd8d9";
+    String apiKey = "YOUR API KEY HERE";
 
     public Currency searchCurrency (String baseCode, String targetCode, double amount){
 
